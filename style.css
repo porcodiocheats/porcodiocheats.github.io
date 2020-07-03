@@ -44,7 +44,7 @@ header h1 {
   float: none;
   color: #ffffff;
   text-transform: uppercase;
-  padding-top: 5%;
+  padding-top: 3%;
 }
 header h1 a {
   color: #ffffff;
@@ -58,7 +58,7 @@ header h2 {
 header img {
   float: left;
   margin-left: 3%;
-  margin-top: 4%;
+  margin-top: 3%;
 }
 article {
   line-height: 1.5;
